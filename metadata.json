@@ -1,0 +1,5 @@
+{
+  "name": "Nuance Translator",
+  "description": "Translate text into various nuanced styles by selecting a language (English or Japanese) and a formality level on a detailed slider, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
